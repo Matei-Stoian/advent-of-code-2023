@@ -3,7 +3,7 @@
 This is my attempt at solving the challenges of the 2023 edition of the advent of code using python or ruby as programming languages
 
 | Day | Answer | Stars | Language|
-| ---- | ----  | ----  | :-: |
+| :----: | :----:  | :----:  | :-: |
 | [Day 1](https://adventofcode.com/2023/day/1)|[solution](https://github.com/Matei-Stoian/advent-of-code-2023/tree/main/challenges/day01)|⭐⭐|💎|
 | [Day 2](https://adventofcode.com/2023/day/2)|[solution](https://github.com/Matei-Stoian/advent-of-code-2023/tree/main/challenges/day02)|⭐⭐|🐍|
 | [Day 3](https://adventofcode.com/2023/day/3)|[solution](https://github.com/Matei-Stoian/advent-of-code-2023/tree/main/challenges/day03)|⭐⭐|🐍|
