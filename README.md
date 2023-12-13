@@ -11,3 +11,4 @@ This is my attempt at solving the challenges of the 2023 edition of the advent o
 | [Day 5](https://adventofcode.com/2023/day/5)|[solution](https://github.com/Matei-Stoian/advent-of-code-2023/tree/main/challenges/day05)|⭐⭐|🐍|
 | [Day 6](https://adventofcode.com/2023/day/6)|[solution](https://github.com/Matei-Stoian/advent-of-code-2023/tree/main/challenges/day06)|⭐⭐|💎|
 | [Day 7](https://adventofcode.com/2023/day/7)|[solution](https://github.com/Matei-Stoian/advent-of-code-2023/tree/main/challenges/day07)|⭐⭐|🐍|
+| [Day 8](https://adventofcode.com/2023/day/8)|[solution](https://github.com/Matei-Stoian/advent-of-code-2023/tree/main/challenges/day08)|⭐⭐|🐍|
